@@ -9,8 +9,6 @@ Before you begin, you should have the following tools installed on your local ma
 - kubectl
 - Git
 
-You can install Prerequisites by doing this steps. [click here & complete all steps one by one]().
-
 
 ## Installation
 Follow these steps to install and run the Reddit clone app on your local machine:
@@ -26,9 +24,5 @@ Follow these steps to install and run the Reddit clone app on your local machine
 
 
 ## Test Ingress DNS for the app:
-
-
-## Contributing
-If you'd like to contribute to this project, please open an issue or submit a pull request.
 
 
